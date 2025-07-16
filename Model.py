@@ -10,7 +10,7 @@ CORS(app)
 
 # Load TFLite model
 try:
-    interpreter = tf.lite.Interpreter(model_path="rumah_adat_final_97.tflite")
+    interpreter = tf.lite.Interpreter(model_path="rumah_adat_final_SGD.tflite")
     interpreter.allocate_tensors()
     input_details = interpreter.get_input_details()
     output_details = interpreter.get_output_details()
