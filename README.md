@@ -27,3 +27,4 @@ Gunakan virtual environment dan jalankan:
 
 ```bash
 pip install -r requirements.txt
+python Model.py
