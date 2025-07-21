@@ -21,10 +21,11 @@ Model ini mengenali 5 jenis rumah adat dari NTT:
 
 ## 🚀 Cara Menjalankan
 
-### 1. Instal dependensi
+###Instal dependensi
 
 Gunakan virtual environment dan jalankan:
 
 ```bash
 pip install -r requirements.txt
 python Model.py
+
