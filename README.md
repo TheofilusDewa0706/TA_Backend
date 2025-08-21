@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 python -m venv venv
 
-3, Nyalakan env:
+3. Nyalakan env:
 
 venv\Scripts\activate
 
