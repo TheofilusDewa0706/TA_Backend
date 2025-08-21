@@ -11,7 +11,7 @@ Aplikasi backend berbasis Flask untuk mengklasifikasikan gambar rumah adat dari 
   - Rumah adat Sumba
   - Rumah adat Waraebo
 - Menggunakan model `rumah_adat_final_SGD.tflite`
-- Preprocessing: resize ke 256x256 piksel, normalisasi 0–1
+- Preprocessing: resize ke 224x224 piksel, normalisasi 0–1
 - Output: nama kelas, confidence, dan entropy
 
 ## 🚀 Cara Menjalankan
