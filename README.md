@@ -16,7 +16,7 @@ Aplikasi backend berbasis Flask untuk mengklasifikasikan gambar rumah adat dari 
 
 ## 🚀 Cara Menjalankan
 
-1. Install dependensi:
+### 1. Install dependensi:
 
 pip install -r requirements.txt
 
