@@ -20,15 +20,15 @@ Aplikasi backend berbasis Flask untuk mengklasifikasikan gambar rumah adat dari 
 
 pip install -r requirements.txt
 
-2. buat env:
+### 2. buat env:
 
 python -m venv venv
 
-3. Nyalakan env:
+### 3. Nyalakan env:
 
 venv\Scripts\activate
 
-4. Jalankan server:
+### 4. Jalankan server:
 
 python Model.py
 
